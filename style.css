@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(199, 233, 224);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 10px;
+    padding: 0%;
+}
+h1{
+    font-size: 150%;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    font-size: 120%
+
+}
+P{
+    text-align: left;
+    font-size: 100%;
+}
